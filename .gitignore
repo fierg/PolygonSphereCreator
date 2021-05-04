@@ -1,0 +1,15 @@
+*.aux
+*.log
+*.gz
+*.out
+softwaretechnik/u7/out/*
+softwaretechnik/u7/build/*
+*.bbl
+*.blg
+compression/VL/*
+*.iml
+*.class
+**/.classpath
+**/.idea/*
+**/.project
+**/.settings/*
